@@ -1,6 +1,6 @@
 ### Scott Tse
 
-Senior Product Manager, Data & Interoperability at Reliance eHealth Collaborative, a regional HIE in the US Pacific NW. 9 years in healthcare data exchange: HL7v2, C-CDA, FHIR, and the operational reality removing healthcare data silos. 
+Senior Product Manager, Data & Interoperability at a regional HIE in the US Pacific NW. 9 years in healthcare data exchange: HL7v2, C-CDA, FHIR, and the operational reality of removing healthcare data silos. Trying to use AI to accelerate the process of being useful to customers and my community.  
 
 **Current project: [Tabula Health](https://github.com/sky-t/tabula-health)**
 Describe a patient in plain English, get FHIR R4, C-CDA 2.1, and HL7v2 test records with real terminology codes. The LLM extracts clinical intent; deterministic lookups assign the codes, so nothing is hallucinated. Eval work to date: 55 annotated traces, a 10-code failure taxonomy, and spec fixes for 7 failure modes.
